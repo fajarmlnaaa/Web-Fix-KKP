@@ -2,9 +2,9 @@
 
 <div align="center"><a name="readme-top"></a>
 
-# Team 10 - NYC Properties
+# Team XX KKP
 
-An open-source of capstone project of team 10 jayapura 24. <br/>
+An open-source of KKP project of Team xx. <br/>
 
 ## Badges
 
