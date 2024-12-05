@@ -1,0 +1,1632 @@
+.kkp-design,
+.kkp-design * {
+  box-sizing: border-box;
+}
+
+   
+   @media (max-width: 769px) and (max-width: 1920px) {
+    .kkp-design__menu-list {
+      gap: 50px; 
+    }
+  }
+    html {
+      scroll-behavior: smooth; 
+    }
+.kkp-design {
+  background: #ffffff;
+  border-radius: 16px;
+  min-height: 2500px;
+  width: 100%;
+  position: relative;
+  overflow: auto; /* Changed to auto for scrollable content */
+}
+.kkp-design__rectangle-15 {
+  background: linear-gradient(
+    180deg,
+    rgba(226, 246, 252, 1) 14.253044128417969%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+}
+.kkp-design__vector-99 {
+  opacity: 0.6;
+  width: 1748.28px;
+  height: 1321.06px;
+  position: absolute;
+  left: 1627.28px;
+  top: 360.18px;
+  transform: translate(-1627.28px, -0.5px);
+  overflow: visible;
+}
+.kkp-design__frame-368 {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 80px;
+  top: 41px;
+}
+.kkp-design__logo {
+  flex-shrink: 0;
+  width: 42px;
+  height: 35px;
+  position: relative;
+  overflow: visible;
+}
+.kkp-design__kkp {
+  color: rgba(72, 183, 214, 0.84);
+  text-align: left;
+  font-family: "RubikDoodleShadow-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__menu-list {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 560px;
+  top: 55px;
+}
+.kkp-design__home {
+  color: #333333;
+  text-align: left;
+  font-family: "Lato-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__dashboard {
+  color: #333333;
+  text-align: left;
+  font-family: "Lato-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__about-us {
+  color: #333333;
+  text-align: left;
+  font-family: "Lato-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__hero {
+  padding: 10px 80px 10px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 1440px;
+  height: 636px;
+  position: absolute;
+  left: 0px;
+  top: 112px;
+}
+.kkp-design__containter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__text-left {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__title-body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__mulai-perjalanan-anda-explore-keindahan-pulau-kalimantan {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 124.5%;
+  font-weight: 700;
+  position: relative;
+  width: 721px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__quis-nostrud-exercit {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  letter-spacing: 0.32px;
+  font-weight: 400;
+  opacity: 0.8;
+  position: relative;
+  width: 533px;
+}
+.kkp-design__kkp-1 {
+  margin: 0 0 0 -26px;
+  flex-shrink: 0;
+  width: 664px;
+  height: 594px;
+  position: relative;
+  object-fit: cover;
+}
+.kkp-design__trend {
+  padding: 105px 0px 105px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 1px;
+  top: 1403px;
+}
+.kkp-design__frame-29 {
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__title-body2 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__popular-destinations {
+  color: #333333;
+  text-align: center;
+  font-family: var(--display-md-bold-font-family, "Lato-Bold", sans-serif);
+  font-size: var(--display-md-bold-font-size, 36px);
+  line-height: var(--display-md-bold-line-height, 140%);
+  letter-spacing: var(--display-md-bold-letter-spacing, -0.01em);
+  font-weight: var(--display-md-bold-font-weight, 700);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.kkp-design__vacations-to-make-your-experience-enjoyable-in-kalimantan {
+  color: #333333;
+  text-align: left;
+  font-family: var(--text-md-regular-font-family, "Lato-Regular", sans-serif);
+  font-size: var(--text-md-regular-font-size, 16px);
+  line-height: var(--text-md-regular-line-height, 140%);
+  letter-spacing: var(--text-md-regular-letter-spacing, 0.5px);
+  font-weight: var(--text-md-regular-font-weight, 400);
+  opacity: 0.8;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__list-card {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1277px;
+  position: relative;
+}
+.kkp-design__card {
+  flex-shrink: 0;
+  width: 256.53px;
+  height: 287.73px;
+  position: static;
+}
+.kkp-design__rectangle-8 {
+  background: rgba(240, 240, 240, 0.45);
+  border-radius: 13.87px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.87px;
+  width: 256.53px;
+  height: 287.73px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 0px 1.73px 0px rgba(242, 237, 232, 1);
+  backdrop-filter: blur(1.73px);
+}
+.kkp-design__rectangle-9 {
+  border-radius: 6.93px;
+  width: 228.8px;
+  height: 156px;
+  position: absolute;
+  left: 13.87px;
+  top: 13.87px;
+  box-shadow: 0px 5.2px 13.87px 0px rgba(0, 0, 0, 0.02);
+  object-fit: cover;
+}
+.kkp-design__frame-12 {
+  display: flex;
+  flex-direction: column;
+  gap: 13.87px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 227.07px;
+  height: 39.87px;
+  position: absolute;
+  left: 13.87px;
+  top: 183.73px;
+}
+.kkp-design__frame-30 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.93px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 227px;
+  position: relative;
+}
+.kkp-design__frame-26 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 224px;
+  position: relative;
+}
+.kkp-design__kalimantan-timur {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 13.866666793823242px;
+  line-height: 140%;
+  letter-spacing: 0.43px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__keindahan-derawan-dan-kemegahan-hutan-kalimantan-timur-adalah-surga-tropis-yang-menanti-untuk-dijelajahi {
+  color: var(--gray-600, #636363);
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12.133333206176758px;
+  line-height: 140%;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: relative;
+  width: 224px;
+  display: flex;
+  align-items: center;
+}
+.kkp-design__rectangle-82 {
+  background: rgba(240, 240, 240, 0.45);
+  border-radius: 13.87px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.87px;
+  width: 256.53px;
+  height: 287.73px;
+  position: absolute;
+  left: 261.53px;
+  top: 0px;
+  box-shadow: 0px 0px 1.73px 0px rgba(242, 237, 232, 1);
+  backdrop-filter: blur(1.73px);
+}
+.kkp-design__rectangle-92 {
+  border-radius: 6.93px;
+  width: 228.8px;
+  height: 156px;
+  position: absolute;
+  left: 275.4px;
+  top: 13.87px;
+  box-shadow: 0px 5.2px 13.87px 0px rgba(0, 0, 0, 0.02);
+  object-fit: cover;
+}
+.kkp-design__frame-122 {
+  display: flex;
+  flex-direction: column;
+  gap: 13.87px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 228.8px;
+  height: 39.87px;
+  position: absolute;
+  left: 275.4px;
+  top: 183.73px;
+}
+.kkp-design__frame-31 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.93px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__frame-262 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 228px;
+  position: relative;
+}
+.kkp-design__kalimantan-barat {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 13.866666793823242px;
+  line-height: 140%;
+  letter-spacing: 0.43px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__nikmati-sensasi-berada-di-garis-khatulistiwa-sambil-menjelajahi-hutan-hujan-tropis-dan-budaya-pontianak-yang-unik {
+  color: var(--gray-600, #636363);
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12.133333206176758px;
+  line-height: 140%;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: relative;
+  width: 228px;
+  display: flex;
+  align-items: center;
+}
+.kkp-design__rectangle-83 {
+  background: rgba(240, 240, 240, 0.45);
+  border-radius: 13.87px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.87px;
+  width: 256.53px;
+  height: 287.73px;
+  position: absolute;
+  left: 523.07px;
+  top: 0px;
+  box-shadow: 0px 0px 1.73px 0px rgba(242, 237, 232, 1);
+  backdrop-filter: blur(1.73px);
+}
+.kkp-design__rectangle-93 {
+  border-radius: 6.93px;
+  width: 228.8px;
+  height: 156px;
+  position: absolute;
+  left: 536.93px;
+  top: 13.87px;
+  box-shadow: 0px 5.2px 13.87px 0px rgba(0, 0, 0, 0.02);
+  object-fit: cover;
+}
+.kkp-design__frame-123 {
+  display: flex;
+  flex-direction: column;
+  gap: 13.87px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 123.93px;
+  height: 19.07px;
+  position: absolute;
+  left: 536.93px;
+  top: 185.47px;
+}
+.kkp-design__frame-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.93px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__frame-263 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__kalimantan-tengah {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 13.866666793823242px;
+  line-height: 140%;
+  letter-spacing: 0.43px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap; /* Mencegah teks membungkus */
+  overflow: hidden; /* Menyembunyikan teks yang melampaui batas */
+  text-overflow: ellipsis;
+}
+.kkp-design__temui-orangutan-di-habitat-aslinya-di-taman-nasional-tanjung-puting-permata-alam-kalimantan-tengah {
+  color: var(--gray-600, #636363);
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12.133333206176758px;
+  line-height: 140%;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: absolute;
+  left: 536.5px;
+  top: 206px;
+  width: 229px;
+  display: flex;
+  align-items: center;
+}
+.kkp-design__rectangle-84 {
+  background: rgba(240, 240, 240, 0.45);
+  border-radius: 13.87px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.87px;
+  width: 256.53px;
+  height: 287.73px;
+  position: absolute;
+  left: 784.6px;
+  top: 0px;
+  box-shadow: 0px 0px 1.73px 0px rgba(242, 237, 232, 1);
+  backdrop-filter: blur(1.73px);
+}
+.kkp-design__rectangle-94 {
+  border-radius: 6.93px;
+  width: 228.8px;
+  height: 156px;
+  position: absolute;
+  left: 798.47px;
+  top: 13.87px;
+  box-shadow: 0px 5.2px 13.87px 0px rgba(0, 0, 0, 0.02);
+  object-fit: cover;
+}
+.kkp-design__frame-124 {
+  display: flex;
+  flex-direction: column;
+  gap: 13.87px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 126.53px;
+  height: 39.87px;
+  position: absolute;
+  left: 798.47px;
+  top: 183.73px;
+}
+.kkp-design__frame-33 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.93px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__kalimantan-selatan {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 13.866666793823242px;
+  line-height: 140%;
+  letter-spacing: 0.43px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__keajaiban-alam-dan-budaya-bersatu-di-tanah-banjar-dengan-pasar-terapung-dan-pegunungan-meratus-yang-memukau {
+  color: var(--gray-600, #636363);
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12.133333206176758px;
+  line-height: 140%;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: relative;
+  width: 229px;
+  display: flex;
+  align-items: center;
+}
+.kkp-design__rectangle-85 {
+  background: rgba(240, 240, 240, 0.45);
+  border-radius: 13.87px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.87px;
+  width: 256.53px;
+  height: 287.73px;
+  position: absolute;
+  left: 1046.13px;
+  top: 0px;
+  box-shadow: 0px 0px 1.73px 0px rgba(242, 237, 232, 1);
+  backdrop-filter: blur(1.73px);
+}
+.kkp-design__rectangle-95 {
+  border-radius: 6.93px;
+  width: 228.8px;
+  height: 156px;
+  position: absolute;
+  left: 1060px;
+  top: 13.87px;
+  box-shadow: 0px 5.2px 13.87px 0px rgba(0, 0, 0, 0.02);
+  object-fit: cover;
+}
+.kkp-design__frame-125 {
+  display: flex;
+  flex-direction: column;
+  gap: 13.87px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 126.53px;
+  height: 39.87px;
+  position: absolute;
+  left: 1060px;
+  top: 183.73px;
+}
+.kkp-design__frame-332 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.93px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 230px;
+  position: relative;
+}
+.kkp-design__kalimantan-utara {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 13.866666793823242px;
+  line-height: 140%;
+  letter-spacing: 0.43px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__alam-liar-kalimantan-utara-adalah-panggilan-bagi-para-petualang-sejati-yang-mencari-pengalaman-tak-terlupakan {
+  color: var(--gray-600, #636363);
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12.133333206176758px;
+  line-height: 140%;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: relative;
+  width: 230px;
+  display: flex;
+  align-items: center;
+}
+.kkp-design__travelers-point {
+  position: absolute;
+  inset: 0;
+}
+.kkp-design__group-33 {
+  width: 618.74px;
+  height: 526.09px;
+  position: static;
+}
+.kkp-design__group-32 {
+  width: 618.74px;
+  height: 301.16px;
+  position: static;
+}
+.kkp-design__frame-7 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 618.74px;
+  position: absolute;
+  left: 795.74px;
+  top: 949.16px;
+}
+.kkp-design__jelajahi-pesona-kalimantan-dengan-keindahan-alamnya-yang-memukau-dan-budaya-yang-kaya-nikmati-pengalaman-unik-seperti-berenang-bersama-ubur-ubur-di-danau-kakaban-menjelajahi-pasar-terapung-di-kalimantan-selatan-atau-bertemu-orangutan-di-taman-nasional-tanjung-puting-temukan-surga-tropis-ini-di-mana-petualangan-dan-harmoni-alam-menyatu-sempurna {
+  color: var(--titlecolor, #3d3e48);
+  text-align: left;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: relative;
+  width: 575px;
+}
+.kkp-design__frame-5 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 795.74px;
+  top: 903.09px;
+}
+.kkp-design__discover-the-wonders-of-kalimantan {
+  color: var(--titlecolor, #3d3e48);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 27.649999618530273px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+.kkp-design__frame-6 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 795.74px;
+  top: 842px;
+}
+.kkp-design__travelers-point2 {
+  color: var(--secondary, #295943);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 180%;
+  font-weight: 700;
+  position: relative;
+}
+.kkp-design__group-31 {
+  width: 540.26px;
+  height: 204.45px;
+  position: static;
+}
+.kkp-design__group-29 {
+  width: 495.26px;
+  height: 89.76px;
+  position: static;
+}
+.kkp-design__group-25 {
+  width: 154.69px;
+  height: 89.76px;
+  position: static;
+}
+.kkp-design__frame-8 {
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 795.74px;
+  top: 1163.64px;
+}
+.kkp-design___500 {
+  color: var(--secondary, #295943);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 27.649999618530273px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+.kkp-design__destinasi-wisata-alam-dan-budaya {
+  color: var(--titlecolor, #3d3e48);
+  text-align: left;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 807.48px;
+  top: 1217.25px;
+  width: 142.95px;
+  height: 36.15px;
+}
+.kkp-design__group-26 {
+  width: 206.15px;
+  height: 89.36px;
+  position: static;
+}
+.kkp-design__frame-82 {
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1084.85px;
+  top: 1163.64px;
+}
+.kkp-design__penginapan-nyaman-di-berbagai-kota {
+  color: var(--titlecolor, #3d3e48);
+  text-align: left;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 1097px;
+  top: 1217px;
+  width: 194px;
+  height: 36px;
+}
+.kkp-design__group-30 {
+  width: 540.26px;
+  height: 89.76px;
+  position: static;
+}
+.kkp-design__group-28 {
+  width: 251.15px;
+  height: 89.67px;
+  position: static;
+}
+.kkp-design__frame-83 {
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1084.85px;
+  top: 1278.33px;
+}
+.kkp-design___32-m {
+  color: var(--secondary, #295943);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 27.649999618530273px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+.kkp-design__kenangan-tak-terlupakan-menanti-anda {
+  color: var(--titlecolor, #3d3e48);
+  text-align: left;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 1097px;
+  top: 1332px;
+  width: 239px;
+  height: 36px;
+}
+.kkp-design__group-27 {
+  width: 177.09px;
+  height: 89.76px;
+  position: static;
+}
+.kkp-design__frame-84 {
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 795.74px;
+  top: 1278.33px;
+}
+.kkp-design___250 {
+  color: var(--secondary, #295943);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 27.649999618530273px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+.kkp-design__pilihan-transportasi-eksklusif {
+  color: var(--titlecolor, #3d3e48);
+  text-align: left;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 807.48px;
+  top: 1331.94px;
+  width: 165.35px;
+  height: 36.15px;
+}
+.kkp-design__group-34 {
+  width: 618.74px;
+  height: 558.51px;
+  position: absolute;
+  left: 80px;
+  top: 844.49px;
+  overflow: visible;
+}
+.kkp-design__frame-366 {
+  background: linear-gradient(
+    180deg,
+    rgba(72, 183, 214, 0.84) 0%,
+    rgba(38, 96, 112, 0.84) 100%
+  );
+  border-radius: 24px 24px 0px 0px;
+  padding: 25px 71px 25px 71px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+  height: 685px;
+  position: absolute;
+  left: 0px;
+  top: 2108px;
+  overflow: hidden;
+}
+.kkp-design__frame-11 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__discover-kalimantan {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 64px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  position: relative;
+  width: 763px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__component-12 {
+  background: #fa8443;
+  border-radius: 60px;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 202px;
+  position: relative;
+  overflow: hidden;
+}
+.kkp-design__join-with-us {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+}
+.kkp-design__icon-outlined-directions-straight-arrows-up-right {
+  flex-shrink: 0;
+  width: 42px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+}
+.kkp-design__line-5 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  background-color: black;
+  position: relative;
+  overflow: visible;
+}
+.kkp-design__frame-367 {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__logo2 {
+  flex-shrink: 0;
+  width: 42px;
+  height: 35px;
+  position: relative;
+  overflow: visible;
+}
+.kkp-design__kkp2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RubikDoodleShadow-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__frame-126 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__frame-127 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  height: 239px;
+  position: relative;
+}
+.kkp-design__jelajahi-keindahan-alam-budaya-dan-tradisi-kalimantan-dari-hutan-tropis-yang-lebat-sungai-sungai-yang-memikat-hingga-keramahan-masyarakat-lokal-kalimantan-adalah-destinasi-yang-penuh-keajaiban {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: relative;
+  width: 635px;
+  height: 61px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__frame-327 {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__vuesax-bold-facebook {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.kkp-design__vuesax-bold-facebook2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.kkp-design__vuesax-bold-youtube {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.kkp-design__vuesax-bold-youtube2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.kkp-design__vuesax-bold-whatsapp {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.kkp-design__vuesax-bold-whatsapp2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.kkp-design__vuesax-bold-instagram {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.kkp-design__vuesax-bold-instagram2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.kkp-design__ui-icon-twitter-filled {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.kkp-design__frame-328 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__navigation {
+  color: #475467;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__frame-128 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__home2 {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__dashboard2 {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__about-us2 {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__frame-329 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kkp-design__contact {
+  color: #475467;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design___62-857-1882-6954 {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kkp-design__line-6 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  background-color: black;
+  position: relative;
+  overflow: visible;
+}
+.kkp-design__frame-129 {
+  display: flex;
+  flex-direction: row;
+  gap: 513px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 910px;
+  position: relative;
+}
+.kkp-design__copyright-2024-kkp-all-rights-reserved {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* css card new */
+.trend,
+.trend * {
+  box-sizing: border-box;
+}
+.trend {
+  padding: 500px 0px ;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.trend__frame-29 {
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.trend__title-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.trend__popular-destinations {
+  color: #333333;
+  text-align: center;
+  font-family: var(--display-md-bold-font-family, "Lato-Bold", sans-serif);
+  font-size: var(--display-md-bold-font-size, 36px);
+  line-height: var(--display-md-bold-line-height, 140%);
+  letter-spacing: var(--display-md-bold-letter-spacing, -0.01em);
+  font-weight: var(--display-md-bold-font-weight, 700);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.trend__vacations-to-make-your-experience-enjoyable-in-kalimantan {
+  color: #333333;
+  text-align: left;
+  font-family: var(--text-md-regular-font-family, "Lato-Regular", sans-serif);
+  font-size: var(--text-md-regular-font-size, 16px);
+  line-height: var(--text-md-regular-line-height, 140%);
+  letter-spacing: var(--text-md-regular-letter-spacing, 0.5px);
+  font-weight: var(--text-md-regular-font-weight, 400);
+  opacity: 0.8;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trend__list-card {
+  display: flex;
+  flex-direction: row;
+  gap: -10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1277px;
+  position: relative;
+}
+.trend__card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 10px;
+  height: 100%;
+  position: relative;
+}
+
+.trend__card:hover {
+  transform: translateY(-10px);  
+} 
+.trend__rectangle-8 {
+  background: rgba(240, 240, 240, 0.45);
+  border-radius: 14.51px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.91px;
+  width: 268.44px;
+  height: 301.09px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 0px 1.81px 0px rgba(242, 237, 232, 1);
+  backdrop-filter: blur(1.81px);
+}
+.trend__rectangle-9 {
+  border-radius: 7.26px;
+  width: 239.42px;
+  height: 163.24px;
+  position: absolute;
+  left: 14.51px;
+  top: 14.51px;
+  box-shadow: 0px 5.44px 14.51px 0px rgba(0, 0, 0, 0.02);
+  object-fit: cover;
+}
+.trend__frame-12 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.51px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 237.6px;
+  height: 41.72px;
+  position: absolute;
+  left: 14.51px;
+  top: 192.26px;
+}
+.trend__frame-30 {
+  display: flex;
+  flex-direction: column;
+  gap: 7.26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 237.53px;
+  position: relative;
+}
+.trend__frame-26 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.63px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 234.39px;
+  position: relative;
+}
+.trend__kalimantan-timur {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 14.51012897491455px;
+  line-height: 140%;
+  letter-spacing: 0.45px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trend__keindahan-derawan-dan-kemegahan-hutan-kalimantan-timur-adalah-surga-tropis-yang-menanti-untuk-dijelajahi {
+  color: var(--gray-600, #636363);
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12.696362495422363px;
+  line-height: 140%;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: relative;
+  width: 234.39px;
+  display: flex;
+  align-items: center;
+}
+.trend__rectangle-82 {
+  background: rgba(240, 240, 240, 0.45);
+  border-radius: 14.51px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.91px;
+  width: 268.44px;
+  height: 301.09px;
+  position: absolute;
+  left: 339.44px;
+  top: 0px;
+  box-shadow: 0px 0px 1.81px 0px rgba(242, 237, 232, 1);
+  backdrop-filter: blur(1.81px);
+}
+.trend__rectangle-92 {
+  border-radius: 7.26px;
+  width: 239.42px;
+  height: 163.24px;
+  position: absolute;
+  left: 353.95px;
+  top: 14.51px;
+  box-shadow: 0px 5.44px 14.51px 0px rgba(0, 0, 0, 0.02);
+  object-fit: cover;
+}
+.trend__frame-122 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.51px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 239.42px;
+  height: 41.72px;
+  position: absolute;
+  left: 353.95px;
+  top: 192.26px;
+}
+.trend__frame-31 {
+  display: flex;
+  flex-direction: column;
+  gap: 7.26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.trend__frame-262 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.63px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 238.58px;
+  position: relative;
+}
+.trend__kalimantan-barat {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 14.51012897491455px;
+  line-height: 140%;
+  letter-spacing: 0.45px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trend__nikmati-sensasi-berada-di-garis-khatulistiwa-sambil-menjelajahi-hutan-hujan-tropis-dan-budaya-pontianak-yang-unik {
+  color: var(--gray-600, #636363);
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12.696362495422363px;
+  line-height: 140%;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: relative;
+  width: 238.58px;
+  display: flex;
+  align-items: center;
+}
+.trend__rectangle-83 {
+  background: rgba(240, 240, 240, 0.45);
+  border-radius: 14.51px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.91px;
+  width: 268.44px;
+  height: 301.09px;
+  position: absolute;
+  left: 678.87px;
+  top: 0px;
+  box-shadow: 0px 0px 1.81px 0px rgba(242, 237, 232, 1);
+  backdrop-filter: blur(1.81px);
+}
+.trend__rectangle-93 {
+  border-radius: 7.26px;
+  width: 239.42px;
+  height: 163.24px;
+  position: absolute;
+  left: 693.38px;
+  top: 14.51px;
+  box-shadow: 0px 5.44px 14.51px 0px rgba(0, 0, 0, 0.02);
+  object-fit: cover;
+}
+.trend__frame-123 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.51px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 129.68px;
+  height: 19.95px;
+  position: absolute;
+  left: 693.38px;
+  top: 194.07px;
+  white-space: nowrap; 
+  text-overflow: ellipsis;
+}
+.trend__frame-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 7.26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.trend__frame-263 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.63px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.trend__kalimantan-tengah {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 14.51012897491455px;
+  line-height: 140%;
+  letter-spacing: 0.45px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trend__temui-orangutan-di-habitat-aslinya-di-taman-nasional-tanjung-puting-permata-alam-kalimantan-tengah {
+  color: var(--gray-600, #636363);
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12.696362495422363px;
+  line-height: 140%;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: absolute;
+  left: 692.93px;
+  top: 215.56px;
+  width: 239.63px;
+  display: flex;
+  align-items: center;
+}
+.trend__rectangle-84 {
+  background: rgba(240, 240, 240, 0.45);
+  border-radius: 14.51px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.91px;
+  width: 268.44px;
+  height: 301.09px;
+  position: absolute;
+  left: 1018.31px;
+  top: 0px;
+  box-shadow: 0px 0px 1.81px 0px rgba(242, 237, 232, 1);
+  backdrop-filter: blur(1.81px);
+}
+.trend__rectangle-94 {
+  border-radius: 7.26px;
+  width: 239.42px;
+  height: 163.24px;
+  position: absolute;
+  left: 1032.82px;
+  top: 14.51px;
+  box-shadow: 0px 5.44px 14.51px 0px rgba(0, 0, 0, 0.02);
+  object-fit: cover;
+}
+.trend__frame-124 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.51px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 132.4px;
+  height: 41.72px;
+  position: absolute;
+  left: 1032.82px;
+  top: 192.26px;
+}
+.trend__frame-33 {
+  display: flex;
+  flex-direction: column;
+  gap: 7.26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.trend__kalimantan-selatan {
+  color: #333333;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 14.51012897491455px;
+  line-height: 140%;
+  letter-spacing: 0.45px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trend__keajaiban-alam-dan-budaya-bersatu-di-tanah-banjar-dengan-pasar-terapung-dan-pegunungan-meratus-yang-memukau {
+  color: var(--gray-600, #636363);
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12.696362495422363px;
+  line-height: 140%;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: relative;
+  width: 239.63px;
+  display: flex;
+  align-items: center;
+}
