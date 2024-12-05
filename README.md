@@ -34,13 +34,13 @@ An open-source of KKP project of Team xx. <br/>
 
 ## Deployment / Production
 
-| Vercel 1 | [https://km-feb24-jayapura-10-eight.vercel.app/](https://km-feb24-jayapura-10-eight.vercel.app/) |
+| Vercel 1 | [xx) |
 | -------- | ------------------------------------------------------------------------------------------------ |
-| Vercel 2 | [https://km-feb24-jayapura-10.vercel.app/](https://km-feb24-jayapura-10.vercel.app/)             |
+| Vercel 2 | [xx)             |
 
 ## Feature
 
-![Logo](assets/score.png)
+![Logo](logo1.svg)
 
 - Articles
 - Dashboard Data Analyst
