@@ -77,7 +77,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  left: 560px;
+  left: 420px;
   top: 55px;
 }
 .kkp-design__home {
@@ -895,6 +895,12 @@
   top: 844.49px;
   overflow: visible;
 }
+.kkp-design__group-35 {
+  position: absolute;
+  left: 80px;
+  top: 744px;
+  overflow: visible;
+}
 .kkp-design__frame-366 {
   background: linear-gradient(
     180deg,
@@ -938,7 +944,7 @@
   justify-content: flex-start;
 }
 .kkp-design__component-12 {
-  background: #fa8443;
+  background: #333333;
   border-radius: 60px;
   padding: 10px 20px 10px 20px;
   display: flex;

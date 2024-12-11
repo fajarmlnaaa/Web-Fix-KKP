@@ -1,0 +1,960 @@
+html{
+  scroll-behavior: smooth;
+}
+html::-webkit-scrollbar {
+  display: none; /* Menyembunyikan scrollbar */
+}
+.about-kalimantan,
+.about-kalimantan * {
+  box-sizing: border-box;
+}
+.about-kalimantan {
+  background: #ffffff;
+  border-radius: 16px;
+  height: 2649px;
+  position: relative;
+  overflow: hidden;
+}
+.about-kalimantan__rectangle-15 {
+  background: linear-gradient(
+    180deg,
+    rgba(226, 246, 252, 1) 14.253044128417969%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  width: 1440px;
+  height: 804px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.about-kalimantan__vector-99 {
+  opacity: 0.6;
+  width: 1748.28px;
+  height: 1321.06px;
+  position: absolute;
+  left: 1627.28px;
+  top: 360.18px;
+  transform: translate(-1627.28px, -0.5px);
+  overflow: visible;
+}
+.about-kalimantan__frame-368 {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 80px;
+  top: 41px;
+}
+.about-kalimantan__logo {
+  flex-shrink: 0;
+  width: 42px;
+  height: 35px;
+  position: relative;
+  overflow: visible;
+}
+.about-kalimantan__kkp {
+  color: rgba(72, 183, 214, 0.84);
+  text-align: left;
+  font-family: "RubikDoodleShadow-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__menu-list {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 560px;
+  top: 52px;
+}
+.about-kalimantan__home {
+  color: #333333;
+  text-align: left;
+  font-family: "Lato-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__dashboard {
+  color: #333333;
+  text-align: left;
+  font-family: "Lato-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__about-us {
+  color: #333333;
+  text-align: left;
+  font-family: "Lato-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__frame-366 {
+  background: linear-gradient(
+    180deg,
+    rgba(72, 183, 214, 0.84) 0%,
+    rgba(38, 96, 112, 0.84) 100%
+  );
+  border-radius: 24px 24px 0px 0px;
+  padding: 25px 71px 25px 71px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 1440px;
+  height: 685px;
+  position: absolute;
+  left: 0px;
+  top: 1964px;
+  overflow: hidden;
+}
+.about-kalimantan__frame-11 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-kalimantan__discover-kalimantan {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 64px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  position: relative;
+  width: 763px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__component-12 {
+  background: #333333;
+  border-radius: 60px;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 202px;
+  position: relative;
+  overflow: hidden;
+}
+.about-kalimantan__join-with-us {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+}
+.about-kalimantan__icon-outlined-directions-straight-arrows-up-right {
+  flex-shrink: 0;
+  width: 42px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+}
+.about-kalimantan__line-5 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.about-kalimantan__frame-367 {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-kalimantan__logo2 {
+  flex-shrink: 0;
+  width: 42px;
+  height: 35px;
+  position: relative;
+  overflow: visible;
+}
+.about-kalimantan__kkp2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RubikDoodleShadow-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__frame-12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-kalimantan__frame-122 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  height: 239px;
+  position: relative;
+}
+.about-kalimantan__jelajahi-keindahan-alam-budaya-dan-tradisi-kalimantan-dari-hutan-tropis-yang-lebat-sungai-sungai-yang-memikat-hingga-keramahan-masyarakat-lokal-kalimantan-adalah-destinasi-yang-penuh-keajaiban {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.0125em;
+  font-weight: 400;
+  position: relative;
+  width: 635px;
+  height: 61px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__frame-327 {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-kalimantan__vuesax-bold-facebook {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.about-kalimantan__vuesax-bold-facebook2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.about-kalimantan__vuesax-bold-youtube {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.about-kalimantan__vuesax-bold-youtube2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.about-kalimantan__vuesax-bold-whatsapp {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.about-kalimantan__vuesax-bold-whatsapp2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.about-kalimantan__vuesax-bold-instagram {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.about-kalimantan__vuesax-bold-instagram2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.about-kalimantan__ui-icon-twitter-filled {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.about-kalimantan__frame-328 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-kalimantan__navigation {
+  color: #475467;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__frame-123 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-kalimantan__home2 {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__dashboard2 {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__about-us2 {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__frame-329 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-kalimantan__contact {
+  color: #475467;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan___62-857-1882-6954 {
+  color: var(--gray-25, #fcfcfd);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__line-6 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.about-kalimantan__frame-124 {
+  display: flex;
+  flex-direction: row;
+  gap: 513px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 910px;
+  position: relative;
+}
+.about-kalimantan__copyright-2024-kkp-all-rights-reserved {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-kalimantan__banner {
+  position: absolute;
+  inset: 0;
+}
+.about-kalimantan__mask-group {
+  width: 1460px;
+  height: 256px;
+  position: absolute;
+  left: -20px;
+  top: 132px;
+  overflow: visible;
+}
+.about-kalimantan__discover-the-wonders-of-kalimantan {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 33.18000030517578px;
+  line-height: 120%;
+  font-weight: 700;
+  position: absolute;
+  left: 36.78px;
+  top: 279px;
+  width: 434.96px;
+  height: 41px;
+}
+.about-kalimantan__main {
+  position: absolute;
+  inset: 0;
+}
+.about-kalimantan__content {
+  width: 843px;
+  height: 1386px;
+  position: static;
+}
+.about-kalimantan__group-56 {
+  width: 517.44px;
+  height: 62px;
+  position: static;
+}
+.about-kalimantan__natural-beauty-in-kalimantan {
+  color: var(--titlecolor, #3d3e48);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 27.649999618530273px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 82.16px;
+  top: 1086px;
+  width: 517.44px;
+}
+.about-kalimantan__group-55 {
+  width: 223.87px;
+  height: 29px;
+  position: static;
+}
+.about-kalimantan__group-54 {
+  width: 25.87px;
+  height: 24px;
+  position: absolute;
+  left: 82.16px;
+  top: 1122px;
+  overflow: visible;
+}
+.about-kalimantan__frame-125 {
+  padding: 0px 10px 0px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 108.03px;
+  top: 1119px;
+}
+.about-kalimantan__kalimantan-indonesia {
+  color: var(--titlecolor, #3d3e48);
+  text-align: left;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: relative;
+}
+.about-kalimantan__group-65 {
+  width: 840.84px;
+  height: 293px;
+  position: static;
+}
+.about-kalimantan__group-57 {
+  width: 838.69px;
+  height: 145px;
+  position: static;
+}
+.about-kalimantan__kalimantan-atau-juga-disebut-borneo-oleh-dunia-internasional-adalah-pulau-terbesar-ketiga-di-dunia-yang-terletak-di-sebelah-utara-pulau-jawa-dan-di-sebelah-barat-pulau-sulawesi-pulau-kalimantan-dibagi-menjadi-wilayah-indonesia-73-malaysia-26-dan-brunei-1-pulau-kalimantan-terkenal-dengan-julukan-pulau-seribu-sungai-karena-banyaknya-sungai-yang-mengalir-di-pulau-ini {
+  color: #000000;
+  text-align: justified;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 189.96px;
+  top: 463px;
+  width: 730.89px;
+}
+.about-kalimantan__k {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 67.93920135498047px;
+  line-height: 120%;
+  font-weight: 700;
+  position: absolute;
+  left: 82.16px;
+  top: 463px;
+  width: 53.9px;
+}
+.about-kalimantan__group-64 {
+  width: 840.84px;
+  height: 145px;
+  position: static;
+}
+.about-kalimantan__hutan-kalimantan-ialah-habitat-alami-bagi-hewan-orang-utan-gajah-borneo-badak-borneo-landak-rusa-tapir-dan-beberapa-spesies-yang-terancam-punah-karena-kekayaan-alamnya-wilayah-kalimantan-indonesia-merupakan-salah-satu-dari-enam-koridor-ekonomi-yang-dicanangkan-pemerintah-republik-indonesia-di-mana-kalimantan-ditetapkan-sebagai-pusat-produksi-dan-pengolahan-hasil-tambang-dan-lumbung-energi-nasional-di-indonesia {
+  color: #000000;
+  text-align: justified;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 80px;
+  top: 611px;
+  width: 840.84px;
+}
+.about-kalimantan__pulau-kalimantan-adalah-surga-alam-dengan-hutan-hujan-tropis-yang-kaya-akan-flora-dan-fauna-unik-seperti-orangutan-bekantan-dan-macan-dahan-sungai-sungai-besar-seperti-kapuas-dan-mahakam-menjadi-nadi-kehidupan-masyarakat-menawarkan-pemandangan-spektakuler-dan-aktivitas-budaya-pegunungan-dan-gua-gua-seperti-di-taman-nasional-kayan-mentarang-menambah-daya-tarik-alamnya {
+  color: #000000;
+  text-align: justified;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 82.16px;
+  top: 1168px;
+  width: 840.84px;
+}
+.about-kalimantan__jelajahi-pesona-tak-terlupakan-di-pulau-kalimantan-nikmati-keindahan-hutan-hujan-tropis-temui-satwa-unik-seperti-orangutan-dan-rasakan-kehangatan-budaya-suku-dayak-dari-sungai-kapuas-yang-megah-hingga-tradisi-lokal-yang-memikat-kalimantan-menunggu-untuk-anda-eksplorasi-mari-ciptakan-petualangan-seru-dan-pengalaman-berharga-di-jantung-borneo {
+  color: #000000;
+  text-align: left;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 86.47px;
+  top: 1733px;
+  width: 836.53px;
+}
+.about-kalimantan__keberagaman-budaya-di-kalimantan-tercermin-dari-banyaknya-suku-asli-seperti-dayak-banjar-dan-melayu-suku-dayak-terkenal-dengan-tradisi-seni-ukir-tari-tarian-adat-rumah-panjang-rumah-betang-dan-ritual-keagamaan-yang-sarat-makna-harmoni-antara-alam-dan-budaya-membuat-kalimantan-mempesona-sekaligus-berharga-untuk-dilestarikan {
+  color: #000000;
+  text-align: justified;
+  font-family: var(--paragraph-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 16px);
+  line-height: var(--paragraph-line-height, 180%);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 82px;
+  top: 1294px;
+  width: 840.84px;
+}
+.about-kalimantan__group-58 {
+  width: 840.84px;
+  height: 283px;
+  position: static;
+}
+.about-kalimantan__rectangle-18 {
+  border-radius: 5px;
+  width: 409.64px;
+  height: 283px;
+  position: absolute;
+  left: 82.16px;
+  top: 1430px;
+  object-fit: cover;
+}
+.about-kalimantan__rectangle-19 {
+  border-radius: 5px;
+  width: 409.64px;
+  height: 283px;
+  position: absolute;
+  left: 513.36px;
+  top: 1430px;
+  object-fit: cover;
+}
+.about-kalimantan__rectangle-17 {
+  border-radius: 10px;
+  width: 840.84px;
+  height: 299px;
+  position: absolute;
+  left: 82.16px;
+  top: 767px;
+  object-fit: cover;
+}
+.about-kalimantan__other-destination {
+  width: 380px;
+  height: 1394px;
+  position: static;
+}
+.about-kalimantan__group-63 {
+  width: 212px;
+  height: 35px;
+  position: static;
+}
+.about-kalimantan__wikipedia-kalimantan {
+  color: var(--titlecolor, #3d3e48);
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 19.200000762939453px;
+  line-height: 180%;
+  font-weight: 500;
+  position: absolute;
+  left: 980px;
+  top: 733px;
+}
+.about-kalimantan__group-59 {
+  width: 380px;
+  height: 255px;
+  position: static;
+}
+.about-kalimantan__rectangle-20 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  border-radius: 10px;
+  width: 380px;
+  height: 255px;
+  position: absolute;
+  left: 980px;
+  top: 777px;
+  object-fit: cover;
+}
+.about-kalimantan__button {
+  background: #48b7d6;
+  border-radius: 8px;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 990px;
+  top: 949px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.about-kalimantan__button:hover{
+  transform: translateY(-10px);
+}
+.about-kalimantan__button2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 180%;
+  font-weight: 700;
+  position: relative;
+}
+.about-kalimantan__group-13 {
+  width: 380px;
+  height: 88px;
+  position: static;
+}
+.about-kalimantan__frame-13 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 380px;
+  position: absolute;
+  left: 980px;
+  top: 797px;
+}
+.about-kalimantan__surga-ekowisata-dengan-hutan-bukit-soeharto-dan-balikpapan-yang-modern {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 180%;
+  font-weight: 700;
+  position: relative;
+  width: 368px;
+}
+.about-kalimantan__kalimantan-timur-indonesia {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 11px;
+  line-height: 180%;
+  font-weight: 700;
+  position: absolute;
+  left: 990px;
+  top: 865px;
+}
+.about-kalimantan__group-60 {
+  width: 380px;
+  height: 255px;
+  position: static;
+}
+.about-kalimantan__rectangle-202 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  border-radius: 10px;
+  width: 380px;
+  height: 255px;
+  position: absolute;
+  left: 980px;
+  top: 1052px;
+  object-fit: cover;
+}
+.about-kalimantan__button3 {
+  background: #48b7d6;
+  border-radius: 8px;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 990px;
+  top: 1224px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.about-kalimantan__button3:hover{
+  transform: translateY(-10px);
+}
+.about-kalimantan__frame-132 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 380px;
+  position: absolute;
+  left: 980px;
+  top: 1072px;
+}
+.about-kalimantan__eksotis-dengan-sungai-kapuas-dan-budaya-dayak-yang-kaya {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 180%;
+  font-weight: 700;
+  position: relative;
+  width: 368px;
+}
+.about-kalimantan__kalimantan-barat-indonesia {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 11px;
+  line-height: 180%;
+  font-weight: 700;
+  position: absolute;
+  left: 990px;
+  top: 1140px;
+}
+.about-kalimantan__group-61 {
+  width: 380px;
+  height: 255px;
+  position: static;
+}
+.about-kalimantan__rectangle-203 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  border-radius: 10px;
+  width: 380px;
+  height: 255px;
+  position: absolute;
+  left: 980px;
+  top: 1327px;
+  object-fit: cover;
+}
+.about-kalimantan__button4 {
+  background: #48b7d6;
+  border-radius: 8px;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 990px;
+  top: 1499px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.about-kalimantan__button4:hover{
+  transform: translateY(-10px);
+}
+.about-kalimantan__frame-133 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 380px;
+  position: absolute;
+  left: 980px;
+  top: 1347px;
+}
+.about-kalimantan__keindahan-alam-taman-nasional-sebangau-dan-keramahan-dayak-ngaju {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 180%;
+  font-weight: 700;
+  position: relative;
+  width: 368px;
+}
+.about-kalimantan__kalimantan-tengah-indonesia {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 11px;
+  line-height: 180%;
+  font-weight: 700;
+  position: absolute;
+  left: 990px;
+  top: 1415px;
+}
+.about-kalimantan__group-62 {
+  width: 380px;
+  height: 255px;
+  position: static;
+}
+.about-kalimantan__rectangle-204 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  border-radius: 10px;
+  width: 380px;
+  height: 255px;
+  position: absolute;
+  left: 980px;
+  top: 1602px;
+  object-fit: cover;
+}
+.about-kalimantan__button5 {
+  background: #48b7d6;
+  border-radius: 8px;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 990px;
+  top: 1774px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.about-kalimantan__button5:hover{
+  transform: translateY(-10px);
+}
+.about-kalimantan__frame-134 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 380px;
+  position: absolute;
+  left: 980px;
+  top: 1622px;
+}
+.about-kalimantan__pesona-budaya-banjar-dan-pasar-terapung-yang-ikonik {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 180%;
+  font-weight: 700;
+  position: relative;
+  width: 368px;
+}
+.about-kalimantan__kalimantan-selatan-indonesia {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 11px;
+  line-height: 180%;
+  font-weight: 700;
+  position: absolute;
+  left: 990px;
+  top: 1690px;
+}
+.about-kalimantan__maps {
+  width: 380px;
+  height: 213px;
+  position: static;
+}
+.about-kalimantan__rectangle-16 {
+  width: 380px;
+  height: 213px;
+  position: absolute;
+  left: 980px;
+  top: 463px;
+  object-fit: cover;
+}
