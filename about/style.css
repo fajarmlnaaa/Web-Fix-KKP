@@ -958,3 +958,37 @@ html::-webkit-scrollbar {
   top: 463px;
   object-fit: cover;
 }
+
+.bottom-left {
+  color: black;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  position: absolute;
+  left: 86px;
+  top: 1068px;
+}
+
+.bottom-left2{
+  color: black;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  position: absolute;
+  left: 86px;
+  top: 1715px;
+  width: 836.53px;
+}
+.bottom-left3{
+  color: black;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  position: absolute;
+  left: 518px;
+  top: 1715px;
+  width: 836.53px;
+}
